@@ -1,0 +1,6 @@
+{
+  "name": "Bangladesh Smart CV & Biodata Maker",
+  "description": "Comprehensive bilingual CV, ATS resume, and marriage biodata builder tailored for Bangladesh Govt, Bank, Corporate, NGO, RMG, and Fresher markets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
